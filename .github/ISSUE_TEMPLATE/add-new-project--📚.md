@@ -1,17 +1,17 @@
 ---
-name: "Add New Project  \U0001F4DA"
-about: Requesting for the new project to contribute in this repository.
-title: "\U0001F4C3: "
-labels: ''
-assignees: ''
+name: "Voice Assistant  \U0001F4DA"
+about: Kindly add this new project.
+title: "Voice Assistant "
+labels: 'GSSOC-exd','Hactoberfest'
+assignees: 'Codewithmeowmeow'
 
 ---
 
-🔴 Title :
-🔴 Tech stack :
-🔴 Objective :
-🔴 Summary :
-📸 Screenshots
+🔴 Title :VOICE ASSISTANT
+🔴 Tech stack :HTML,CSS,JAVASCRIPT
+🔴 Objective :to create a new project voive assistant
+🔴 Summary :N/A
+📸 Screenshots:N/A
 <!-- Write N/A if not available -->
 
 ***********************************************************************
